@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f2831ce2.css",
-    "main.js": "/portfolio/static/js/main.1e6f05f6.js",
-    "static/js/488.ebe48671.chunk.js": "/portfolio/static/js/488.ebe48671.chunk.js",
-    "static/media/Emotionsensehover.png": "/portfolio/static/media/Emotionsensehover.f1a6dbf9bf3d90bdebcb.png",
-    "static/media/mypic.jpg": "/portfolio/static/media/mypic.c60fac3bb43e655f4fb3.jpg",
-    "static/media/chatthover.png": "/portfolio/static/media/chatthover.2542b0d6ca56b57370f5.png",
-    "static/media/Sudokuvision.png": "/portfolio/static/media/Sudokuvision.af45d2e82affda45a02b.png",
-    "static/media/sudokuvisionhover.png": "/portfolio/static/media/sudokuvisionhover.f1379c593bb319b04d56.png",
-    "static/media/clickdubhover.png": "/portfolio/static/media/clickdubhover.1a703d03aa3d5ffa99d8.png",
-    "static/media/clickdub.png": "/portfolio/static/media/clickdub.4dc3ea4bc62e8eefd218.png",
-    "static/media/Emotionsense.png": "/portfolio/static/media/Emotionsense.4caed322ff232dd4bd5d.png",
-    "static/media/chatt.png": "/portfolio/static/media/chatt.7caf63e44e6100a823f3.png",
-    "index.html": "/portfolio/index.html",
-    "main.f2831ce2.css.map": "/portfolio/static/css/main.f2831ce2.css.map",
-    "main.1e6f05f6.js.map": "/portfolio/static/js/main.1e6f05f6.js.map",
-    "488.ebe48671.chunk.js.map": "/portfolio/static/js/488.ebe48671.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.f2831ce2.css",
+    "main.js": "/Portfolio/static/js/main.07af71eb.js",
+    "static/js/488.ebe48671.chunk.js": "/Portfolio/static/js/488.ebe48671.chunk.js",
+    "static/media/Emotionsensehover.png": "/Portfolio/static/media/Emotionsensehover.f1a6dbf9bf3d90bdebcb.png",
+    "static/media/mypic.jpg": "/Portfolio/static/media/mypic.c60fac3bb43e655f4fb3.jpg",
+    "static/media/chatthover.png": "/Portfolio/static/media/chatthover.2542b0d6ca56b57370f5.png",
+    "static/media/Sudokuvision.png": "/Portfolio/static/media/Sudokuvision.af45d2e82affda45a02b.png",
+    "static/media/sudokuvisionhover.png": "/Portfolio/static/media/sudokuvisionhover.f1379c593bb319b04d56.png",
+    "static/media/clickdubhover.png": "/Portfolio/static/media/clickdubhover.1a703d03aa3d5ffa99d8.png",
+    "static/media/clickdub.png": "/Portfolio/static/media/clickdub.4dc3ea4bc62e8eefd218.png",
+    "static/media/Emotionsense.png": "/Portfolio/static/media/Emotionsense.4caed322ff232dd4bd5d.png",
+    "static/media/chatt.png": "/Portfolio/static/media/chatt.7caf63e44e6100a823f3.png",
+    "index.html": "/Portfolio/index.html",
+    "main.f2831ce2.css.map": "/Portfolio/static/css/main.f2831ce2.css.map",
+    "main.07af71eb.js.map": "/Portfolio/static/js/main.07af71eb.js.map",
+    "488.ebe48671.chunk.js.map": "/Portfolio/static/js/488.ebe48671.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2831ce2.css",
-    "static/js/main.1e6f05f6.js"
+    "static/js/main.07af71eb.js"
   ]
 }
