@@ -98,9 +98,9 @@ const Header = () => {
         <div className="navbar-container container">
           <input type="checkbox" id="menu-toggle" />
           <ul className="menu-items">
-            <li><a href="/">Home</a></li>
-            <li><a href="/AboutMe">About Me</a></li>
-            <li><a href="/Projects">Projects</a></li>
+            <li><a href="/Portfolio/">Home</a></li>
+            <li><a href="/Portfolio/AboutMe">About Me</a></li>
+            <li><a href="/Portfolio/Projects">Projects</a></li>
             <li><a href="#">Get In Touch</a></li>
           </ul>
           <button className="button" onClick={handleDownload}>
